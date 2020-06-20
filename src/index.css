@@ -1,0 +1,17 @@
+body {
+    background-color:rgb(218, 230, 229) !important;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+      monospace;
+  }
+  .clickable {
+    cursor: pointer;
+  }
+  .navbar{
+    margin-bottom: 40px;
+  }
+  .row{
+    padding: 0 0 0 50px;
+  }
