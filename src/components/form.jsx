@@ -5,6 +5,7 @@ import {Link} from "react-router-dom";
 import Select from "./common/select";
 
 class Form extends Component {
+//     state of the component
     state = { 
         data: {},
         errors: {}
@@ -94,4 +95,5 @@ class Form extends Component {
 
 }
  
+//default export
 export default Form;
